@@ -1,0 +1,14 @@
+---------------------README---------------
+
+COMPILACION:
+
+Para compilar el programa, utilizar el comando make all ubicados sobre la carpeta de los archivos.
+
+EJECUCION:
+
+Para ejecutar el programa, posicionarse en la carpeta del programa y enviar el siguiente comando.*
+
+./subte aeropuertos2019.csv movimientos2019.csv
+
+*LOS ARCHIVOS 'estaciones.csv' y 'molinetes.csv' DEBEN ESTAR EN LA CARPETA.
+
